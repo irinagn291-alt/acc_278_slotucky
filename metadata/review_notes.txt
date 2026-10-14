@@ -1,0 +1,23 @@
+The app does not ask for camera, photos, microphone, or tracking, and there is no usage-description string. Add frame photo uses the system photo picker.
+
+There is no login or accounts, no in-app purchase, no ads, no analytics, no public user-generated content (no feed, no report or block), no account deletion flow, and no App Tracking Transparency prompt.
+
+Slotucky is for two people who share one phone and take turns on a nightly prompt. One person writes the first half; the reply stays closed until that half is posted; then the other person writes the reply and the night stitches onto a list of filed nights. Everything they write stays on this device.
+
+No credentials or demo account are needed. On a physical device, a first launch shows a system launch screen with no title. If opening takes a moment, a spinner reads Opening the spread. The introduction is four swipeable pages with Next and Skip on every page. Page 1: Two seats, one phone / A nightly prompt with a first half and a reply. Page 2: Post the first half / The reply stays closed until the first half is posted. Page 3: Then it stitches / Both halves land on the shelf as one spread. Page 4: Name the seats / You can change these names later, with Your name (Ada) and Their name (Ren), plus Continue and Skip. Continue and Skip both finish the introduction and open the home spread. A blank name becomes Ada or Ren.
+
+The home spread then shows Write the first half. and Ada writes first. Ren stays closed until that post. The reply shows Closed until the first half is posted. and has no Post. Write a line in Write this half and tap Post. An empty first half shows Write a line before you post. After that post the title is Post the reply. The reply field already contains I would say come home. I kept the light on. so Post on the reply can be tapped without typing. After both posts the title is Tonight is filed. and Both halves are filed. A new night starts after midnight. Peel drops tonight's first half before the reply is posted. Add frame photo opens the system photo picker.
+
+Slotucky sits at the top left. Four icon buttons at the top right read in VoiceOver as Days together, Filed nights, How posting works, and Settings. Days together opens Together (days together, Started date, Names, Save names, First color and Reply color as Warm or Paper, Nights kept at 7 days, 30 days, 90 days, and 365 days). Filed nights opens Nights; Open this night opens a past night, then Back to tonight returns to the open half. How posting works opens Posting (Post the first half, then the reply.; steps Waiting, Posted, Stitched; A one-sided night stays on the spread until both halves land.). Settings has Export PDF and Share PDF when nights are filed, plus Show the introduction again, Reset all data, and Contact.
+
+On the iOS Simulator, a first launch with no saved nights can skip the introduction and open already mid-night: seats Ada and Ren, four filed nights on Nights, and tonight's first half already posted so the next tap is Post on the reply. A physical device does not get that sample.
+
+Posted halves, names, colors, and filed nights stay on this device. Share PDF is the only way those nights leave the device, and only if the person shares the file. Contact in Settings is the on-screen support control and opens the support page.
+
+There is no region lock. The on-screen language is English. Dates and counts follow the device locale. The night boundary is local midnight.
+
+No licence or regulated-industry paperwork applies. The app is a personal nightly prompt on this device and is not a regulated service.
+
+The app does not show health, medical, or product-health information. The meal prompt is only a personal question, not advice, and there are no citations. The app is a personal log only and gives no recommendations.
+
+The app does not scan barcodes or QR codes.

@@ -1,0 +1,22 @@
+Slotucky is for two people who share one phone and take turns on a nightly prompt. One person writes the first half; the reply stays closed until that half is posted; then the other person writes the reply and the night stitches onto a list of filed nights. Everything they write stays on this device.
+
+• Two seats on one phone, a first half and a reply
+• A nightly two-line prompt; the reply stays closed until the first half is posted
+• Post on the open half
+• Peel to drop tonight's first half before the reply is posted
+• A night stitches only when both halves are posted
+• A one-sided night stays on the spread until both halves land
+• A new night starts after local midnight, and only after tonight is stitched
+• Filed nights on the Nights list and on Nights in the sheet
+• Open a past night, then Back to tonight
+• Name the seats and change them later
+• First color and Reply color: Warm or Paper
+• Days together and Started date
+• Nights kept at 7, 30, 90, and 365 days
+• Optional frame photo and frame marks on the open half
+• Export PDF and Share PDF of stitched spreads
+• Show the introduction again
+• Reset all data
+• Contact
+
+Posted halves, names, colors, and filed nights stay on this device.

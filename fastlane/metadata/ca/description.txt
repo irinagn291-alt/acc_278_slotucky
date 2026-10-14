@@ -1,0 +1,22 @@
+Slotucky és per a dues persones que comparteixen un telèfon i s'alternen en una consigna de nit. Una persona escriu la primera meitat; la resposta es manté tancada fins que aquella meitat es publica; després l'altra persona escriu la resposta i la nit s'uneix a una llista de nits arxivades. Tot el que escriuen es queda en aquest dispositiu.
+
+• Dues places en un sol telèfon, una primera meitat i una resposta
+• Una consigna de nit de dues línies; la resposta es manté tancada fins que es publica la primera meitat
+• Publicar a la meitat oberta
+• Retirar per descartar la primera meitat d'aquesta nit abans que es publiqui la resposta
+• Una nit s'uneix només quan les dues meitats estan publicades
+• Una nit d'una sola meitat es queda a la doble pàgina fins que arriben les dues meitats
+• Una nit nova comença després de la mitjanit local, i només després que s'hagi unit la d'aquesta nit
+• Nits arxivades a la llista de Nits i a Nits del full
+• Obrir una nit passada i després Tornar a aquesta nit
+• Anomenar les places i canviar-les més tard
+• Color de la primera i color de la resposta: Càlid o Paper
+• Dies junts i Data d'inici
+• Nits conservades a 7, 30, 90 i 365 dies
+• Foto de marc i marques de marc opcionals a la meitat oberta
+• Exportar PDF i Compartir PDF de les dobles pàgines unides
+• Tornar a mostrar la introducció
+• Restablir totes les dades
+• Contacte
+
+Les meitats publicades, els noms, els colors i les nits arxivades es queden en aquest dispositiu.
